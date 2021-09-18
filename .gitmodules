@@ -1,0 +1,9 @@
+[submodule "teensy.pretty"]
+	path = teensy.pretty
+	url = ./teensy.pretty
+[submodule "teensy_library"]
+	path = teensy_library
+	url = ./teensy_library
+[submodule "kicad-ESP8266"]
+	path = kicad-ESP8266
+	url = ./kicad-ESP8266
